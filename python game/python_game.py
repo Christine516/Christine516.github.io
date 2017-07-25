@@ -28,14 +28,14 @@ elif gender == "girl":
     scarf_choice=input("You walk over to it, do you 'eat it' or 'wear it'?")
     if scarf_choice == "eat it":
         print("The scarf was delicious, but 24 hours later, your owner finds you laying in a heap by the side of the barn, the scarf did not digest well. The farm's doctor informs you that if the scarf is not removed from your stomach in 2 hours, you will die. Do you...'poop out the scarf' or 'leave it'?")
-        if scarf_choice="poop out the scarf":
+        if scarf_choice=="poop out the scarf":
             print("Good choice, you live, however, you are emotionally scarred. You decide to just stick to eating cow food")
-        elif scarf_choice="leave it":
+        elif scarf_choice=="leave it":
             print("You made a horrible life decision. You die...")
     elif scarf_choice =="wear it":
         print("It just so happens that Vicbeefia Secret's manager was visiting the farm that day. She sees you with the scarf on and is impressed. She asks if you want to sign onto Vicbeefia Secret's cow modeling company." )
         modeling_choice=input("Do you 'accept' the offer or 'decline'?")
-        if modeling_choice="accept":
+        if modeling_choice=="accept":
             print ("Wow your famous but fame comes with a cost... You become anorexic and die.")
-        elif modeling_choice="decline":
+        elif modeling_choice=="decline":
             print ("You're not famous but that is alright because you just dogded higher chances of eating disorders. You continue being a happy go lucky cow and end up having many cute babies!THE END")

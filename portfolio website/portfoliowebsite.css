@@ -1,9 +1,63 @@
+<!--color scheme.. 3E4245,8EB9AB, B5977A, B5816F, CA583B -->
 
   .all{
-    background-color: #E4C3FF;
+    background-color: #3E4245;
   }
+
   .header{
-    background-color: #FFFCDD;
-    padding: 50px;
+    font-size:40px;
+    background-color: #8EB9AB;
     text-align: center;
+    padding:25px;
+    color: #ffffff;
+  }
+
+  #nameheader{
+    font-size:50px;
+    font-family:"Advent Pro";
+    padding:50px;
+    border:5px solid #B5977A;
+    outline-style: solid;
+    outline-color: #B5977A;
+  }
+  div{
+    background-color: #B5977A;
+    width:1295;
+    padding:20px;
+  }
+  span{
+    background-color: #B5977A;
+    font-size:25px;
+    text-align: center;
+    word-spacing: inherit;
+  }
+
+  a{
+    color:#ffffff;
+  }
+
+  a:hover{
+    background-color: #D3D3D3
+}
+  .textbox{
+    width: 400px;
+    padding:100px 10px 100px 10px;
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   }
